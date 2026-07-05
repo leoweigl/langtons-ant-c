@@ -1,0 +1,13 @@
+# Build output
+cmake-build-*/
+build/
+*.exe
+*.o
+*.obj
+
+# IDE
+.idea/
+
+# Generated simulation output (regeneratable, don't need in repo)
+frames/
+*.ppm
